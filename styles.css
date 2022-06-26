@@ -14,22 +14,22 @@
   
   .name {
     color: #FFFFFF;
-    margin-top: 21px;
-    margin-bottom: 7px; 
+    margin-top: 42px;
+    margin-bottom: 14px; 
   }
   
   .role {
     color: #F3BF99;
     margin: 0px;
     font-weight: 400;
-    font-size: 1rem;
+    font-size: 2rem;
   }
   
   .website {
     color: #F5F5F5;
-    margin-top: 9px;
+    margin-top: 18px;
     font-weight: 400;
-    font-size: 0.8rem;
+    font-size: 1.6rem;
   }
   
   .profile {
@@ -45,7 +45,7 @@
   
   .head-btn {
     width: 45%;
-    height: 40px;
+    height: 80px;
     font-weight: 700;
     display: flex;
     align-items: center;
@@ -54,8 +54,8 @@
   
   .linkedin-btn {
     background: #5093E2;
-    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
-    border-radius: 6px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
     color: #FFFFFF;
     text-decoration: none;
   }
@@ -63,20 +63,20 @@
   .email-btn {
     background: #FFFFFF;
     border: 1px solid #D1D5DB;
-    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
-    border-radius: 6px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
     color: black;
     text-decoration: none;
   }
   
   .main {
-    margin: 0 35px;
+    margin: 0 60px;
   }
   
   .main > h1 {
     color: #F5F5F5;
-    margin-top: 33px;
-    margin-bottom: 5px;
+    margin-top: 60px;
+    margin-bottom: 10px;
   }
   
   .main > p {
@@ -87,11 +87,11 @@
   
   .tail {
     background: #161619;
-    font-size: 1.8rem;
+    font-size: 3rem;
     display: flex;
     justify-content: space-around;
-    padding: 20px 50px;
-    margin-top: 35px;
+    padding: 40px 60px;
+    margin-top: 60px;
   }
   .tail > a {
     color: #918E9B;
